@@ -24,4 +24,4 @@ ensuring robust fine-grained adaptation while preserving generic semantic repres
 
 # Funding & Data Statement
 This research was supported by Zhejiang Provincial Natural Science Foundation of China under Grant No. LY23C140004. In collaboration with local government departments, 
-this project has signed relevant confidentiality agreements. For this reason, we only display partial data samples instead of sharing the complete raw data.
+this project has signed relevant confidentiality agreements. For this reason, we only display[ partial data samples](https://github.com/huanghao3344/termit123/blob/main/TermiteData.rar) instead of sharing the complete raw data.
